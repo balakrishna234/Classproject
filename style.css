@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.head
+{
+    font-size: 35px;
+    font-family: 'Fasthand', cursive;
+    width: 100%;
+    margin: 0px;
+}
+#AI, #status,#detect
+{
+    font-size: 20px;
+    font-family: 'Creepster', cursive;
+}
+.footer
+{
+    font-size: 20px;
+    bottom: 0;
+    position: fixed;
+    background-color: firebrick;
+    color: black;
+    font-family: 'Rubik Moonrocks', cursive;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    border: 4px dotted aquamarine;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px blueviolet;
+    margin-top: 100px;
+}
